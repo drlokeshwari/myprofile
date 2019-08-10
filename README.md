@@ -27,16 +27,16 @@ Rajiv Gandhi University of Health sciences, Karnataka, India
 * Over 10 years of clinical experience with 7 years of expertise in Ophthalmology
 ### Clinical Informatics
 * Completed 200 clock hours of  Health informatics practicum in CMH 
-** Cerner millennium Trained : Dynamic Documentation, mPages (Workflow, Summary, Physician Handoff, Quick Orders), PowerNote, PowerNoteED, FirstNet
-** Workflow Redesign: Analyze workflow architecture to modify and accommodate an e-referral system
-** Program, planning and communication: Project management: Developed and executed strategic plans for Projects such as Systems Development Life Cycle of e-referral process of  Respiratory Outpatient clinic(ROC) in Urgent care centers of CMH.
-** Quality Improvement Evaluation: Evaluated usability of an ophthalmology documentation tool created using REDCap (Research Electronic Data Capture).
-** Teamwork and Collaboration: Collaborated between clinical stakeholders and interdisciplinary technical teams
-** Clinical data Analytics: Guided interdisciplinary teams to implement clinical analytics for improved clinical outcomes and Continuous Quality Improvement needs
-** Proficient with the use of workflow redesign and project management tools such as Smartsheet, C-map, Just-in-mind, Mind-map, G-Doc etc.
-** Possess advanced skills in computer: Proficient in Microsoft office(Outlook, Visio, Excel, Access ,PowerPoint and Timeline) 
-** Knowledge of ICD-9,ICD-10 and SNOMED coding and mapping terminologies.
-** Knowledge of Meaningful Use and current regulatory requirements for information systems use 
+    * Cerner millennium Trained : Dynamic Documentation, mPages (Workflow, Summary, Physician Handoff, Quick Orders), PowerNote, PowerNoteED, FirstNet
+    * Workflow Redesign: Analyze workflow architecture to modify and accommodate an e-referral system
+    * Program, planning and communication: Project management: Developed and executed strategic plans for Projects such as  Systems Development Life Cycle of e-referral process of  Respiratory Outpatient clinic(ROC) in Urgent care centers of CMH.
+    * Quality Improvement Evaluation: Evaluated usability of an ophthalmology documentation tool created using REDCap (Research Electronic Data Capture).
+    * Teamwork and Collaboration: Collaborated between clinical stakeholders and interdisciplinary technical teams
+    * Clinical data Analytics: Guided interdisciplinary teams to implement clinical analytics for improved clinical outcomes and Continuous Quality Improvement needs
+    * Proficient with the use of workflow redesign and project management tools such as Smartsheet, C-map, Just-in-mind, Mind-map, G-Doc etc.
+    * Possess advanced skills in computer: Proficient in Microsoft office(Outlook, Visio, Excel, Access ,PowerPoint and Timeline) 
+    * Knowledge of ICD-9,ICD-10 and SNOMED coding and mapping terminologies.
+    * Knowledge of Meaningful Use and current regulatory requirements for information systems use 
 ### Leadership
 * Managed a community eye care center  with a turnover of 80-100patients/day as a single doctor with a team of  20 ophthalmic assistants.
 * Led a team of ophthalmologists and ophthalmic assistants in at least 100 rural outreach programs .
