@@ -1,4 +1,6 @@
-## Dr Lokeshwari
+## About Me
+With more than 10 years of experience in India as a compassionate doctor and over 7 years of expertize in the field of ophthalmology from a WHO collaborating multi-system hospital, my passion to enhance my abilities and contribute in the field of healthcare is never-ending. As a foreign doctor, I aspire to expand my domain to clinical informatics.
+
 ## Education
 
 *	Master of science in Health Informatics (pursing)     - 2017-2019
