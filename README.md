@@ -24,7 +24,7 @@ Rajiv Gandhi University of Health sciences, Karnataka, India
 
 ## Skills and abilities
 ### Clinical and  Surgical
--	Over 10 years of clinical experience with 7 years of expertise in Ophthalmology
+* Over 10 years of clinical experience with 7 years of expertise in Ophthalmology
 ### Clinical Informatics
 * Completed 200 clock hours of  Health informatics practicum in CMH 
 ** Cerner millennium Trained : Dynamic Documentation, mPages (Workflow, Summary, Physician Handoff, Quick Orders), PowerNote, PowerNoteED, FirstNet
